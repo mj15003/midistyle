@@ -2,10 +2,10 @@
 Utility to generate MIDI SysEx messages to control style playback on YAMAHA digital audio workstation
 ---------------------------------------------
 # USAGE
-midistyle -i input-file-name -p output midi port|-o output-file-name
+midistyle -i input-file-name -p output midi port|-o output-file-name  
 
-   -h help
-   -l list ALSA MIDI ports
+   -h help  
+   -l list ALSA MIDI ports  
 
 ---------------------------------------------
 
